@@ -1,0 +1,86 @@
+[
+  {
+    "city": "Rio de Janeiro",
+    "name": "Cristo Redentor",
+    "type": "ponto_turistico",
+    "description": "Estátua icônica no topo do Corcovado com vista panorâmica da cidade.",
+    "tips": "Compre bilhete com antecedência; leve agasalho."
+  },
+  {
+    "city": "Rio de Janeiro",
+    "name": "Praia de Copacabana",
+    "type": "praia",
+    "description": "Praia famosa com calçadão, quiosques e vida noturna ativa.",
+    "tips": "Evite deixar objetos à vista; use protetor solar."
+  },
+  {
+    "city": "Paris",
+    "name": "Torre Eiffel",
+    "type": "ponto_turistico",
+    "description": "Monumento símbolo de Paris com vista da cidade.",
+    "tips": "Reserve subida online para evitar fila."
+  },
+  {
+    "city": "Paris",
+    "name": "Museu do Louvre",
+    "type": "museu",
+    "description": "Maior museu de arte do mundo, abriga a Mona Lisa.",
+    "tips": "Planeje rotas internas; use entrada com hora marcada."
+  },
+  {
+    "city": "Nova York",
+    "name": "Estátua da Liberdade",
+    "type": "ponto_turistico",
+    "description": "Símbolo dos Estados Unidos localizado na Ilha da Liberdade.",
+    "tips": "Compre ingressos antecipados; chegue cedo para evitar filas."
+  },
+  {
+    "city": "Nova York",
+    "name": "Central Park",
+    "type": "parque",
+    "description": "Grande parque urbano no coração de Manhattan, ideal para caminhadas e piqueniques.",
+    "tips": "Alugue uma bicicleta para explorar melhor; atenção à segurança à noite."
+  },
+  {
+    "city": "Roma",
+    "name": "Coliseu",
+    "type": "ponto_turistico",
+    "description": "Anfiteatro romano histórico, um dos principais símbolos da cidade.",
+    "tips": "Compre ingresso combinado com Fórum Romano; use chapéu e água no verão."
+  },
+  {
+    "city": "Roma",
+    "name": "Fontana di Trevi",
+    "type": "monumento",
+    "description": "Fonte barroca famosa onde turistas jogam moedas para dar sorte.",
+    "tips": "Visite à noite para evitar multidões; cuidado com pertences pessoais."
+  },
+  {
+    "city": "Tóquio",
+    "name": "Templo Senso-ji",
+    "type": "templo",
+    "description": "Templo budista mais antigo de Tóquio, localizado em Asakusa.",
+    "tips": "Experimente os doces tradicionais nas lojas próximas; vá cedo para fotos tranquilas."
+  },
+  {
+    "city": "Tóquio",
+    "name": "Shibuya Crossing",
+    "type": "ponto_turistico",
+    "description": "Cruzamento movimentado, um dos mais famosos do mundo.",
+    "tips": "Suba em cafés próximos para vista panorâmica; vá no fim da tarde para luzes da cidade."
+  },
+  {
+    "city": "Lisboa",
+    "name": "Torre de Belém",
+    "type": "monumento",
+    "description": "Fortificação histórica às margens do rio Tejo, patrimônio da UNESCO.",
+    "tips": "Compre bilhete online; combine visita com Mosteiro dos Jerónimos."
+  },
+  {
+    "city": "Lisboa",
+    "name": "Alfama",
+    "type": "bairro",
+    "description": "Bairro histórico com ruas estreitas, fado e miradouros.",
+    "tips": "Use calçado confortável; aproveite restaurantes típicos."
+  }
+]
